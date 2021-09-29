@@ -14,7 +14,11 @@ After download the repo, please open the index.htlm file and click on the button
 for using this repo you must create an account in mapbox.com and get your token key.
 
 ## Support:
-You can contact me by email: luis.carrasquilla.z@gmail.com
+Email: <luis.carrasquilla.z@gmail.com> / 
+Linkedin: **[Luis Carrasquilla](https://www.linkedin.com/in/luis-carrasquilla/)** 
+
+## Roadmap
+I'm planning to create routes between 2 points and display walk, car and bycicle roads.
 
 ## License information:  
 This project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
